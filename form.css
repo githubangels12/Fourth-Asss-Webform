@@ -1,0 +1,162 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    border:0px;
+}
+
+/* .All{
+    margin-left: 120px;
+   margin-bottom: 50px;
+} */
+
+.background{
+ margin-top: 20px; 
+ background-color: aquamarine;
+ margin-bottom: 50px;
+ height: 50px;
+}
+
+.secondback{
+    height: 600px;
+    width: 780px;
+    padding: 20px;
+    background-color: blueviolet;
+    margin: auto;
+    max-width:1024px ;  
+    border-radius: 15px;
+}
+
+.Lady{
+    height: 500px; 
+    width: 300px; 
+    border-top-left-radius:  7px;
+    border-bottom-left-radius: 7px;
+}
+
+.Insert2{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+label{
+    display: flex;
+    flex-direction: column;  
+}
+
+.Kirnde{
+    display: block;
+    flex-direction: row;
+}
+.right{
+    height: 500px;
+    width: 370px;
+    background-color: white;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    
+}
+.flex1{
+    display: flex;
+    margin-left:33px;
+    margin-top: 35px;
+}
+
+.right2{
+    color: blue;
+    margin-left: 5px;
+}
+.left1{
+    margin-left: 35px; margin-top: 15px;
+}
+.topright{
+    margin-left: 200px;
+    margin-right: 10px;
+    margin-top: 10px;
+    display: flex;
+    color: gray;
+}
+.user{
+    width: 340px;
+}
+.identity{
+    display: block;
+    margin-left: 10px;
+    margin-top: 10px;
+    
+}
+.Confirm{
+    margin-left: 2px;
+}
+.Create{
+    margin-left: 40px;
+    background-color: blue; 
+    color: white; 
+    border-radius: 20px;
+    margin-bottom: 30px;
+    padding: 10px;
+    padding-left: 100px; 
+    padding-right: 100px;
+
+}
+.Continue{
+    background-color: white;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid black;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 65px;
+   
+}
+.Start{
+    margin-left: 10px;
+    margin-top: 20px;
+}
+input{
+    height: 28px;
+    border-radius: 5px;
+    border: 1px solid gray; 
+    width: fit-content; 
+    margin-bottom: 10px;
+}
+.Giov{
+    margin-left: 7px;
+}
+.Facebook{
+    background-color: white;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid black;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 55px;
+    
+} 
+.flex{
+    display: flex;
+    margin-bottom: 10px;
+}
+.Down{
+    margin-left: 10px;
+}
+.email{
+    margin-left: 10px;
+}
+.color{
+    padding-top: 5px;
+}
+.Check{
+    margin-right: 5px;
+    margin-bottom: 10px;
+}
+.Down1{
+    display: flex;
+}
+
+.Dan{
+    display: flex;
+}
